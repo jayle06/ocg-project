@@ -6,6 +6,19 @@ Cấu trúc website gồm 2 phần chính:
 - Giao diện được xây dựng bằng VueJS 3
 
 ```
+
+## Diagram Database
+
+![image](https://user-images.githubusercontent.com/57215318/123943072-f826a900-d9c5-11eb-95eb-d60d6bb62037.png)
+
+## Giao diện một số trang 
+![image](https://user-images.githubusercontent.com/57215318/123943822-b4806f00-d9c6-11eb-9f8a-25a727dba0fc.png)
+![image](https://user-images.githubusercontent.com/57215318/123943243-2906de00-d9c6-11eb-88ac-eb626c3f6f73.png)
+![image](https://user-images.githubusercontent.com/57215318/123943337-4340bc00-d9c6-11eb-8b2f-97e5ae4d56b1.png)
+![image](https://user-images.githubusercontent.com/57215318/123943424-581d4f80-d9c6-11eb-952b-4d5c8abf90c3.png)
+![image](https://user-images.githubusercontent.com/57215318/123943919-cf52e380-d9c6-11eb-9c4c-ffdb22911aae.png)
+
+
 ## Back end 
 ```
 - Thiết lập cổng mặc định để chạy server là port 3000.
