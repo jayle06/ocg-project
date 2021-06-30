@@ -6,7 +6,7 @@ Cấu trúc website gồm 2 phần chính:
 - Giao diện được xây dựng bằng VueJS 3
 
 ```
-##Back end 
+## Back end 
 ```
 - Thiết lập cổng mặc định để chạy server là port 3000.
 - Tùy theo database các bạn sử dụng thì cổng mặc định là khác nhau. Trong poject tôi sử dụng cổng 3305 của database MySQL. Các bạn có thể chỉnh sửa trong file Connection thư mục databse.
@@ -54,7 +54,7 @@ METHOD: GET
 http://localhost:3000/api/v1/orders/:id
 ``` 
 
-##Front end
+## Front end
 
 ## Project setup
 ```
